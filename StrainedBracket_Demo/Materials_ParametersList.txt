@@ -1,0 +1,7 @@
+Material	Young's Modulus[Gpa]	Poisson's ratio
+Steel	200	0.30
+Aluminium	69	0.32
+Titanium	110.3	0.27
+Copper	117	0.33
+Bronze	120	0.34
+Brass	125	0.34
