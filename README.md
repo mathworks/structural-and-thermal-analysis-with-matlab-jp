@@ -1,4 +1,4 @@
-[![View structural-and-thermal-analysis-with-matlab-jp on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/76811-structural-and-thermal-analysis-with-matlab-jp)
+Copyright 2020 The MathWorks, Inc [![View structural-and-thermal-analysis-with-matlab-jp on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/76811-structural-and-thermal-analysis-with-matlab-jp)
 
 
 # Contribution Template
